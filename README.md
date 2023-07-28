@@ -45,3 +45,4 @@ Resources for all levels of experience.
 
 # Other resources
 - [All LangChain Integrations](https://integrations.langchain.com/)
+- [List of all LLMs](https://github.com/Hannibal046/Awesome-LLM)
