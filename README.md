@@ -3,7 +3,7 @@ Resources for all levels of experience.
 
 ## Concepts
 ### Prompt Engineering
-- [Prompt engineering by Lilian Weng](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/
+- [Prompt engineering by Lilian Weng](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
 - [What is Prompt Engineering?](https://prmpts.ai/blog/what-is-prompt-engineering)
 - [Beware Tunnel Vision in AI Retrieval](https://colinharman.substack.com/p/beware-tunnel-vision-in-ai-retrieval?utm_campaign=post&utm_medium=web)
 - [The Introduction Of Chat Markup Language (ChatML) Is Important For A Number Of Reasons](https://cobusgreyling.medium.com/the-introduction-of-chat-markup-language-chatml-is-important-for-a-number-of-reasons-5061f6fe2a85)
